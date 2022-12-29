@@ -5,12 +5,17 @@ contributor:
     agent_name: Costa, João da
     gutenberg_agent_id: '55339'
     url: http://www.gutenberg.org/2009/agents/55339
+covers:
+- cover_type: archival
+  image_path: 69596-h/images/cover.jpg
 creator:
   author:
     agent_name: Bluteau, Rafael
     gutenberg_agent_id: '55338'
     url: http://www.gutenberg.org/2009/agents/55338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69596#Instruccam-sobre-a-cultura-das-amoreiras-criacao-dos-bichos-da-seda-dirigida-a-conservacao-au_
 gutenberg_issued: '2022-12-21'
 identifiers:
   gutenberg: '69596'
